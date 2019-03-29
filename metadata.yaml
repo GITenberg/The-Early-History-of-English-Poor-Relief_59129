@@ -1,11 +1,16 @@
 _repo: The-Early-History-of-English-Poor-Relief_59129
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59129-h/images/cover.jpg
 creator:
   author:
     agent_name: Leonard, E. M.
     gutenberg_agent_id: '50314'
     url: http://www.gutenberg.org/2009/agents/50314
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59129#The-Early-History-of-English-Poor-Relief
 gutenberg_issued: '2019-03-26'
 gutenberg_type: Text
 identifiers:
